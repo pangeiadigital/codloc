@@ -2,12 +2,11 @@
 
 # CODLOC<sup>®</sup> - Código de Localização
 
-O CODLOC<sup>®</sup> é um código de geolocalização criado com o objetivo de ser utilizado como uma espécia de CEP<sup>®</sup> em versão digital - acessado por meio de canais digitais e em formato aberto e gratuito - permitindo a localização de pessoas e empresas independentemente se tpossuirem ou não um endereço fornal. Entende-se neste contexto por um endereço formal um local físico declarado em comprovantes de residência aceitos comumente como referenciais de residência ou localização fiscal.
-A partir da obtenção de coordenadas georreferenciadas - seja por meio de aparelhos eletrônicos com receptores GNSS ou de registros em bancos de dados com pares de coordenadas -, um algoritmo faz a transformação de coordenadas georreferenciadas em códigos curtos de localização alfanuméricos - e vice-versa. No caso do Brasil, é possível ainda usar três palavras da língua portuguesa como um apelido localizador, facilitando-se o uso popular desta solução.
-
+O CODLOC<sup>®</sup> é um código de geolocalização criado com o objetivo de ser utilizado como uma espécia de CEP<sup>®</sup> em versão digital - acessado por meio de canais digitais e em formato aberto e gratuito - permitindo a localização de pessoas e empresas independentemente se possuírem ou não um endereço formal. Entende-se neste contexto por um endereço formal um local físico declarado em comprovantes de residência aceitos comumente como referenciais de residência ou localização fiscal.
+A partir da obtenção de coordenadas georreferenciadas - seja por meio de aparelhos eletrônicos com receptores GNSS ou de registros em bancos de dados com pares de coordenadas -, um algoritmo faz a transformação destas coordenadas georreferenciadas em códigos curtos de localização alfanuméricos - e vice-versa. No caso do Brasil, é possível ainda usar três palavras da língua portuguesa como um apelido localizador, facilitando-se o uso popular desta solução.
 
 _Suas principais personas, são:_
-1. Pessoas ou empresas que se situam em áreas densamente povoadas e carentes de identificação como favelas, aréas esparsas geograficamente como áreas rurais ou mesmo em alto-mar, desde que contidas no território brasileiro - domínios em terra firme ou águas legais;
+1. Pessoas ou empresas que estejam em áreas carentes de identificação como favelas, áreas esparsas geograficamente como zonas rurais ou ainda em áreas remotas como em alto-mar, desde que sob a jurisdição brasileira;
 2. Crianças, idosos ou pessoas que não se familiarizam em memorizar identificadores;
 3. Pessoas em situações de emergência, como denúncia anônima por violência doméstica, urgências médicas, chamada aos bombeiros, naufragos, entre outros;
 
@@ -45,4 +44,5 @@ Protegido pela [BSD 3-Clause Clear License](https://choosealicense.com/licenses/
 **Referências**:
 
 [1] Jakub Červený. Gilbert - Generalized Hilbert Space-filling curves. Disponível [aqui](https://github.com/jakubcerveny/gilbert) sob a licença "2-clause BSD license".
+[2] IBGE - Instituto Brasileiro de Geografia e Estatística. 
 
